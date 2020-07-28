@@ -1,0 +1,170 @@
+{"data":[{
+    "keyword": "新人首单0元购",
+    "schemeUrl": "https://act.you.163.com/act/static/X12AzpsPxDlB.html?keyword=%E6%96%B0%E4%BA%BA%E9%A6%96%E5%8D%950%E5%85%83%E8%B4%AD",
+    "highlight": 1,
+    "hidden": 0,
+    "type": 0,
+    "algSort": false,
+    "extra": {}
+    },
+    {
+    "keyword": "口罩专区",
+    "schemeUrl": "",
+    "highlight": 1,
+    "hidden": 0,
+    "type": 0,
+    "algSort": true,
+    "extra": {
+    "materialContentFrom": 1,
+    "materialName": "口罩专区",
+    "rcmdSort": false,
+    "taskType": 1,
+    "itemFrom": 0,
+    "crmUserGroupName": "",
+    "resourcesId": 4,
+    "materialType": "热搜词id",
+    "crmUserGroupId": "0",
+    "materialId": "54644903",
+    "taskId": "54657190"
+    }
+    },
+    {
+    "keyword": "内裤",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    },
+    {
+    "keyword": "牛奶品类日 半价换购",
+    "schemeUrl": "https://you.163.com/topic/v1/pub/danV9fm7RGVU.html?keyword=%E7%89%9B%E5%A5%B6%E5%93%81%E7%B1%BB%E6%97%A5%20%E5%8D%8A%E4%BB%B7%E6%8D%A2%E8%B4%AD",
+    "highlight": 1,
+    "hidden": 0,
+    "type": 0,
+    "algSort": true,
+    "extra": {
+    "materialContentFrom": 1,
+    "materialName": "牛奶品类日 半价换购",
+    "rcmdSort": false,
+    "taskType": 1,
+    "itemFrom": 0,
+    "crmUserGroupName": "无分组",
+    "resourcesId": 3,
+    "materialType": "热搜词id",
+    "crmUserGroupId": "0",
+    "materialId": "54648230",
+    "taskId": "54658938"
+    }
+    },
+    {
+    "keyword": "拖把",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    },
+    {
+    "keyword": "毛巾",
+    "schemeUrl": "https://you.163.com/topic/v1/pub/gc0DysDFRU1T.html?keyword=%E6%AF%9B%E5%B7%BE",
+    "highlight": 1,
+    "hidden": 0,
+    "type": 0,
+    "algSort": true,
+    "extra": {
+    "materialContentFrom": 1,
+    "materialName": "毛巾",
+    "rcmdSort": false,
+    "taskType": 1,
+    "itemFrom": 0,
+    "crmUserGroupName": "无分组",
+    "resourcesId": 5,
+    "materialType": "热搜词id",
+    "crmUserGroupId": "0",
+    "materialId": "54647745",
+    "taskId": "54658703"
+    }
+    },
+    {
+    "keyword": "飞机杯",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    },
+    {
+    "keyword": "防霉除湿",
+    "schemeUrl": "https://you.163.com/topic/v1/pub/Je8dDwFMJx9U.html?keyword=%E9%98%B2%E9%9C%89%E9%99%A4%E6%B9%BF",
+    "highlight": 1,
+    "hidden": 0,
+    "type": 0,
+    "algSort": true,
+    "extra": {
+    "materialContentFrom": 1,
+    "materialName": "防霉除湿",
+    "rcmdSort": false,
+    "taskType": 1,
+    "itemFrom": 0,
+    "crmUserGroupName": "",
+    "resourcesId": 6,
+    "materialType": "热搜词id",
+    "crmUserGroupId": "0",
+    "materialId": "54647461",
+    "taskId": "54657794"
+    }
+    },
+    {
+    "keyword": "电动牙刷",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    },
+    {
+    "keyword": "新品0元试用",
+    "schemeUrl": "https://you.163.com/topic/v1/pub/ZxSwpZ5JaaU7.html?keyword=%E6%96%B0%E5%93%810%E5%85%83%E8%AF%95%E7%94%A8",
+    "highlight": 1,
+    "hidden": 0,
+    "type": 0,
+    "algSort": true,
+    "extra": {
+    "materialContentFrom": 1,
+    "materialName": "新品0元试用",
+    "rcmdSort": false,
+    "taskType": 1,
+    "itemFrom": 0,
+    "crmUserGroupName": "",
+    "resourcesId": 2,
+    "materialType": "热搜词id",
+    "crmUserGroupId": "0",
+    "materialId": "54647943",
+    "taskId": "54658935"
+    }
+    },
+    {
+    "keyword": "床垫",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    },
+    {
+    "keyword": "行李箱",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    }]
+    
+}
